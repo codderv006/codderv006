@@ -1,6 +1,6 @@
 👋 Hi, I’m Vedant
 
-👀 I’m interested in the domain of Machine Learning and some kind of design tech.
+👀 I’m interested in Machine Learning and some kind of designing stuff.
 
 🌱 I’m currently learning JAVA and JAVASCRIPT with some practice for UI designing on Figma and Canva
 
