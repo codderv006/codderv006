@@ -1,6 +1,6 @@
 👋 Hi, I’m Vedant
 
-👀 I’m interested in Machine Learning and some kind of designing stuff.
+👀 I’m interested in Machine Learning, Open-source contributions, Frontend-dev, Graphic designing and more!
 
 🌱 I’m currently learning JAVA and JAVASCRIPT with some practice for UI designing on Figma and Canva
 
