@@ -1,8 +1,8 @@
 👋 Hi, I’m Vedant
 
-👀 I’m interested in Machine Learning, Open-source contributions, Frontend-dev, Graphic designing and more!
+👀 Interested in Machine Learning, Open-source contributions, Frontend-dev, Graphic designing and more!
 
-🌱 I’m currently learning JAVA and JAVASCRIPT with some practice for UI designing on Figma and Canva
+🌱 Currently learning JAVA and JAVASCRIPT with some practice for UI designing on Figma and Canva
 
 📫 How to reach me : via
 * mail : vedthp06@gmail.com 
