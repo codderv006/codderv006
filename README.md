@@ -2,7 +2,7 @@
 
 👀 Interested in Machine Learning, Open-source contributions, Frontend-dev, Graphic designing and more!
 
-🌱 Currently learning JAVA and JAVASCRIPT with some practice for UI designing on Figma and Canva
+🌱 Currently learning JAVA, Blender, JAVASCRIPT, and python with some practice for UI designing on Figma and Canva
 
 📫 How to reach me : via
 * mail : vedthp06@gmail.com 
