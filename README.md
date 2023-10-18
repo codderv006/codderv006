@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-based software development and some personal publications<br>👯 I’m looking to collaborate on Machine learning projects<br>🤝 I’m looking for guidance in Open sourcing and Possibilities in AI & ML<br>🌱 I’m currently learning/practicing JAVA & python programming<br>💬 Ask me about anything I'm always ready to talk and connect<br>⚡ I'm good at UI designing too
+🔭 I’m currently working on AI-based software development and some personal publications<br>👯 Also looking forward to collaborating on Machine learning projects<br>🤝 Seeking for guidance in Open sourcing and Possibilities in AI & ML<br>🌱 I’m currently learning/practicing JAVA, Python, R programming, Data analysis and LLMs<br>💬 Ask me about anything I'm always ready to talk and connect<br>⚡ I'm good at UI designing too.
 
 
 ## 🌐 Socials:
