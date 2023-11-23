@@ -15,7 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=codderv006&icon=0&color=1)](https://visitcount.itsvg.in)
 
-# Holopin Profile
+# Holopin Badges
 [![An image of @vedantxtime's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedantxtime)](https://holopin.io/@vedantxtime)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
