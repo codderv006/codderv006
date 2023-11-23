@@ -18,3 +18,4 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @vedantxtime's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedantxtime)](https://holopin.io/@vedantxtime)
